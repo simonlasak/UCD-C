@@ -1,0 +1,13 @@
+Lidl:
+Milk
+Eggs
+Tesco:
+Orange Juice
+Cheese
+Aldi:
+Cereal
+Supervalue:
+Dunnes:
+Flour
+Butter
+Bread

@@ -1,0 +1,12 @@
+Lidl:
+Milk
+Eggs
+Walmart:
+Orange Juice
+Cheese
+Aldi:
+Cereal
+Supervalue:
+Dunnes:
+Flour
+Butter
